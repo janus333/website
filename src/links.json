@@ -1,0 +1,56 @@
+{
+  "links": [
+    {
+      "name": "https://www.privacytools.io/",
+      "url": "https://www.privacytools.io/"      
+    },
+    {
+      "name": "https://medium.com/@zMrDevJ/privacy-tools-in-the-era-of-covid-19-and-beyond-b666290cec60",
+      "url": "https://medium.com/@zMrDevJ/privacy-tools-in-the-era-of-covid-19-and-beyond-b666290cec60"
+    },
+    {
+      "name": "https://ssd.eff.org/",
+      "url": "https://ssd.eff.org/"
+    },
+    {
+      "name": "https://privacybadger.org/",
+      "url": "https://privacybadger.org/"
+    },
+    {
+      "name": "https://pi-hole.net/",
+      "url": "https://pi-hole.net/"
+    },
+    {
+      "name": "The Great Hack (Netflix link)",
+      "url": "https://www.netflix.com/at-en/title/80117542"
+    },
+    {
+      "name": "https://de.wikipedia.org/wiki/Citizenfour",
+      "url": "https://de.wikipedia.org/wiki/Citizenfour"
+    },
+    {
+      "name": "https://de.wikipedia.org/wiki/Zero_Days",
+      "url": "https://de.wikipedia.org/wiki/Zero_Days"
+    },
+    {
+      "name": "https://www.veracrypt.fr/en/Home.html",
+      "url": "https://www.veracrypt.fr/en/Home.html"
+    },
+    {
+      "name": "https://cryptomator.org/",
+      "url": "https://cryptomator.org/"
+    },
+    {
+      "name": "https://thenewoil.xyz/",
+      "url": "https://thenewoil.xyz/"
+    },
+    {
+      "name": "https://securityinabox.org/en/",
+      "url": "https://securityinabox.org/en/"
+    },
+    {
+      "name": "https://www.qubes-os.org/",
+      "url": "https://www.qubes-os.org/"
+    }
+  ]
+}

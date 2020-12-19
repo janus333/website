@@ -1,0 +1,13 @@
+{
+  "name": "website",
+  "version": "0.0.0",
+  "description": "checking out react",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "latest",
+    "react-scripts": "2.0.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": []
+}
